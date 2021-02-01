@@ -12,10 +12,14 @@ By using Pandas and Matplotlib, we were able to analyze the company’s ride-sha
 
 ![Total Fare_by_City_Type](/analysis/PyBer_fare_summary.png)
 
-## Summary
-From our analysis, we are able to make the following recommendations to V.Isualize:
 
--	Allocate more drivers to Rural and Suburban cities.
+
+## Summary
+From our analysis, we can see that the cost of ride-sharing per ride is more expensive in Rural and Suburban cities. Also, unlike Urban cities, Rural and Suburban cities have lower driver counts than total rides. In order to help improve total fares in Rural and Suburban cities, V.Isusalize may need to come up with strategies to:
+
+- Make ride-sharing more affordable in Rural and Suburban cities.
+- Allocate more drivers to Rural and Suburban cities.
 -	Allocate less drivers to Urban cities.
 
-This could help drive the average fare per driver in Urban cities up and may potentially increase the number of rides in Rural and Suburban cities. More rides in Rural and Suburban may also lead to increased total fares.
+By moving drivers to Rural and Suburban cities at more affordable fares, people may choose to use the service more often. This will improve total rides and ultimately increase total fares.
+
